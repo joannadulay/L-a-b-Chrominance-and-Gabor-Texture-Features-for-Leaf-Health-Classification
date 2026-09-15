@@ -1,0 +1,5 @@
+- dataset\diseased\image (310).jpg | TRUE=diseased -> PRED=discolored
+- dataset\diseased\image (417).jpg | TRUE=diseased -> PRED=discolored
+- dataset\diseased\image (362).jpg | TRUE=diseased -> PRED=discolored
+- dataset\healthy\image (94).jpg | TRUE=healthy -> PRED=discolored
+- dataset\discolored\image (40).jpg | TRUE=discolored -> PRED=diseased

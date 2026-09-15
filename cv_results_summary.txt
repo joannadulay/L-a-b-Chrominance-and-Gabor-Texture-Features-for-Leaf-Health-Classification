@@ -1,0 +1,15 @@
+Best CV macro F1: 0.9318
+Best parameters: {'subsample': 1.0, 'n_estimators': 45, 'min_samples_split': 4, 'min_samples_leaf': 4, 'max_features': 'sqrt', 'max_depth': 4, 'learning_rate': 0.15}
+
+Top 10 parameter sets (sorted by CV score):
+
+1. mean_cv_f1=0.9318 ± 0.0110 | mean_train_f1=0.9896 | train_cv_gap=0.0578 | params={'subsample': 1.0, 'n_estimators': 45, 'min_samples_split': 4, 'min_samples_leaf': 4, 'max_features': 'sqrt', 'max_depth': 4, 'learning_rate': 0.15}
+2. mean_cv_f1=0.9294 ± 0.0099 | mean_train_f1=0.9903 | train_cv_gap=0.0608 | params={'subsample': 0.9, 'n_estimators': 100, 'min_samples_split': 4, 'min_samples_leaf': 12, 'max_features': 'sqrt', 'max_depth': 4, 'learning_rate': 0.15}
+3. mean_cv_f1=0.9270 ± 0.0132 | mean_train_f1=0.9896 | train_cv_gap=0.0626 | params={'subsample': 1.0, 'n_estimators': 100, 'min_samples_split': 8, 'min_samples_leaf': 8, 'max_features': 'log2', 'max_depth': 3, 'learning_rate': 0.15}
+4. mean_cv_f1=0.9269 ± 0.0093 | mean_train_f1=0.9853 | train_cv_gap=0.0583 | params={'subsample': 0.9, 'n_estimators': 60, 'min_samples_split': 8, 'min_samples_leaf': 4, 'max_features': 'sqrt', 'max_depth': 4, 'learning_rate': 0.05}
+5. mean_cv_f1=0.9269 ± 0.0067 | mean_train_f1=0.9893 | train_cv_gap=0.0625 | params={'subsample': 1.0, 'n_estimators': 100, 'min_samples_split': 16, 'min_samples_leaf': 2, 'max_features': 'sqrt', 'max_depth': 4, 'learning_rate': 0.15}
+6. mean_cv_f1=0.9257 ± 0.0129 | mean_train_f1=0.9896 | train_cv_gap=0.0639 | params={'subsample': 1.0, 'n_estimators': 100, 'min_samples_split': 8, 'min_samples_leaf': 12, 'max_features': 'log2', 'max_depth': 4, 'learning_rate': 0.15}
+7. mean_cv_f1=0.9257 ± 0.0100 | mean_train_f1=0.9896 | train_cv_gap=0.0640 | params={'subsample': 1.0, 'n_estimators': 100, 'min_samples_split': 16, 'min_samples_leaf': 8, 'max_features': 'log2', 'max_depth': 4, 'learning_rate': 0.1}
+8. mean_cv_f1=0.9255 ± 0.0210 | mean_train_f1=0.9827 | train_cv_gap=0.0572 | params={'subsample': 1.0, 'n_estimators': 80, 'min_samples_split': 8, 'min_samples_leaf': 8, 'max_features': None, 'max_depth': 3, 'learning_rate': 0.03}
+9. mean_cv_f1=0.9245 ± 0.0065 | mean_train_f1=0.9887 | train_cv_gap=0.0642 | params={'subsample': 1.0, 'n_estimators': 80, 'min_samples_split': 4, 'min_samples_leaf': 2, 'max_features': 'log2', 'max_depth': 4, 'learning_rate': 0.15}
+10. mean_cv_f1=0.9232 ± 0.0162 | mean_train_f1=0.9843 | train_cv_gap=0.0612 | params={'subsample': 0.8, 'n_estimators': 100, 'min_samples_split': 16, 'min_samples_leaf': 8, 'max_features': 'sqrt', 'max_depth': 2, 'learning_rate': 0.1}
