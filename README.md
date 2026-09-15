@@ -96,13 +96,13 @@ The trained model was evaluated on 139 held-out test images.
 
 The confusion matrix shows the number of correctly and incorrectly classified images for each class.
 
-![Lean Stage D Final Test Confusion Matrix — Counts](outputs_stageD_lean/final_test_confusion_matrix.png)
+![Lean Stage D Final Test Confusion Matrix — Counts](output/final_test_confusion_matrix.png)
 
 ### Row-Normalized Confusion Matrix
 
 The row-normalized matrix presents the proportion of predictions for each true class.
 
-![Lean Stage D Final Test Confusion Matrix — Normalized](outputs_stageD_lean/final_test_confusion_matrix_normalized.png)
+![Lean Stage D Final Test Confusion Matrix — Normalized](output/final_test_confusion_matrix_normalized.png)
 
 ### Confusion Matrix Values
 
